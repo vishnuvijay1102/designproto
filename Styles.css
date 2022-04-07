@@ -99,3 +99,6 @@ li{
 #content{
     border: 50px solid black ;  
 }
+.body{
+    float : none;
+}
