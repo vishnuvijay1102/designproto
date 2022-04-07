@@ -1,0 +1,101 @@
+hr{
+    width: 1800px;
+    color: #B8B8B8;
+    opacity: 28%;
+}
+h1{
+    text-align: center;
+    font-family: 'Lexend Peta', sans-serif;
+    color: #746262;
+}
+h2{
+    padding-left: 20px;
+}
+
+p{
+    
+    font-family: 'Lexend Peta', sans-serif;
+    font-size: 20px;
+    width: 1618px;
+    text-align: center;
+    padding-left: 125px;
+}
+h4{
+    padding-left: 20px;
+    font-size: 20px;
+}
+h5{
+
+    font-family: 'Krona One', sans-serif;
+}
+.Flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+  
+
+.flow{
+    width: 1080px;
+    padding-left: 375px;
+    float: center;
+    object-position: center;
+}
+iframe{
+   padding-left: 375px;
+   padding-top: 50px;
+   float: center;
+}
+body{
+    float: center;
+}
+.bottom nav{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: flex-start;
+}
+.bottom{
+    background-image:url("Rectangle.png");
+    border-radius: 10px;
+    background-repeat: no-repeat;
+}
+.hedder{
+    font-size: 35px;
+    font-family: 'Lily Script One';
+    padding-left: 25px;
+}
+a{
+    font-family: 'Lily Script One';
+    font-size: 30px;
+    padding: 5px;
+    color: #000000;
+    text-decoration: none;
+    
+    
+}
+
+a:hover{
+
+    background-color: #3b3b3b;
+    color: #f1f1f1;
+    border-radius: 10px;
+    opacity: 50%;
+}
+
+.pic
+{
+    width: 27px;
+    height: 27px;
+    padding-top: 10px;
+}
+li{
+    padding-left: 75px;
+    font-family: 'Lily Script One';
+    font-size: 26px;
+    
+}
+#content{
+    border: 50px solid black ;  
+}
